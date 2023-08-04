@@ -1,7 +1,7 @@
 
 🚀 **Innovative Tech Enthusiast | Software Engineering Student @ ALX Africa | Python 🐍 | JavaScript 🌐 | C 📊 | Flask 🌟**
 
-👋 Hey there, I'm [Your Name] – a disciplined and forward-thinking young mind on a mission to reshape the tech landscape. Currently immersed in the world of Software Engineering at ALX Africa, where we don't just dream, we Do Hard Things.
+👋 Hey there, I'm Kingsley – a disciplined and forward-thinking young mind on a mission to reshape the tech landscape. Currently immersed in the world of Software Engineering at ALX Africa, where we don't just dream, we Do Hard Things.
 
 🌍 I firmly believe that the boundaries of innovation are meant to be stretched. I see endless possibilities where others might see limitations. With a passion that fuels my every step, I'm determined to carve my mark in the tech industry.
 
