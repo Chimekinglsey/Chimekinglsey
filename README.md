@@ -1,8 +1,6 @@
 
-🚀 **Innovative Tech Enthusiast | Backend Develper | Python 🐍 | JavaScript 🌐 | C 📊 | Flask 🌟**
+🚀 **Innovative Tech Enthusiast | Backend Develper | Python 🐍 | JavaScript 🌐 | C 📊 | Django 🌟**
 
-👋 Hey there, I'm Kingsley – a disciplined and forward-thinking young mind currently immersed in the world of Software Engineering at ALX Africa, where we don't just dream, but Do Hard Things.
+👋 Hey there, I'm Kingsley – a disciplined and forward-thinking back end python developer
 
-🌍 I firmly believe that the boundaries of innovation are meant to be stretched. As a relentless learner, I see beyond limimitations- I see endless possibilities!
-
-🤝 Collaboration is my secret sauce. I understand that the best solutions come to life through diverse perspectives and collective wisdom. While I know my potential, it's the power of "we" that truly excites me.
+🤝 Collaboration is my secret sauce. While I'm mining and honing my potential, it's the power of "we" that truly excites me.
