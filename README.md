@@ -1,5 +1,5 @@
 
-🚀 **Innovative Tech Enthusiast | Backend Develper | Python 🐍 | JavaScript 🌐 | C 📊 | Django 🌟**
+🚀 **Innovative Tech Enthusiast | Backend Developer | AWS SAA | Python 🐍 | JavaScript 🌐 | C 📊 | Django 🌟**
 
 👋 Hey there, I'm Kingsley – a disciplined and forward-thinking back end python developer
 
